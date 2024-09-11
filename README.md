@@ -32,19 +32,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/R3F-008080?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 </div>
 
 ### Backend
 <div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
 </div>
 
 ## 📘 학습 중인 기술
-- **TypeScript**: 정적 타입을 도입하여 코드의 안정성을 높이기 위해 학습 중입니다.
+- **TypeScript**: 책과 인터넷 강의를 통해 학습중입니다.
 - **Redux & Recoil**: 상태 관리를 더욱 효율적으로 다루기 위해 깊이 있는 학습을 진행하고 있습니다.
-- **Three.js & R3F**: 3D 그래픽과 애니메이션을 웹에 적용하기 위해 집중적으로 공부하고 있습니다.
+- **Three.js & R3F**: 더 나은 3D 인터랙티브 웹을 개발하기 위해서 학습중입니다.
 - **React**: 더욱 효율적인 컴포넌트 설계와 최적화를 위해 학습을 이어가고 있습니다.
 
 ## 🖥️ 작업 환경
@@ -56,44 +58,42 @@ Here are some ideas to get you started:
 ## 📂 프로젝트
 
 ### 📱 안드로이드 앱 개발
-- **프로젝트 설명**: 안드로이드 기반 QR현장결제애플리케이션.
-- **사용한 기술**: Java, Android Studio
+- **프로젝트 설명**: 안드로이드 기반 QR현장결제애플리케이션 프로젝트입니다.
+- **사용한 기술**: Java, Android Studio, JavaScript
 - **GitHub 링크**: [Android App Development](https://github.com/yuhan19plus/AndroidProjects)
 
 ### 🌱 스프링부트 프로젝트
-- **프로젝트 설명**: 학교 과제로 진행한 Spring Boot 기반의 대학포털웹사이트 백엔드 프로젝트.
+- **프로젝트 설명**: 학교 과제로 진행한 Spring Boot 기반의 대학포털웹사이트 백엔드 중심 프로젝트입니다.
 - **사용한 기술**: Spring Boot, MySQL, JPA, Thymeleaf
 - **GitHub 링크**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)
 
 ### ⚛️ 리액트 프로젝트 모음
-- **인터랙티브 웹 개발**:
-  - **프로젝트 설명**: 리액트와 Three.js를 활용한 인터랙티브 대학교 웹 개발 프로젝트.
+- **유한대학교 인터랙티브 웹 개발**:
+  - **프로젝트 설명**: 리액트와 R3F를 활용한 인터랙티브 웹 개발 프로젝트입니다.
   - **사용한 기술**: React, Three.js, R3F, node.js, MySQL, JavaScript
   - **GitHub 링크**: [Interactive Web](https://github.com/yuhan19-plus/yuhan-interactive-web)
 
 - **노트 애플리케이션**:
-  - **프로젝트 설명**: 노트를 관리할 수 있는 React 애플리케이션.
+  - **프로젝트 설명**: 노트를 관리할 수 있는 React 웹 프로젝트입니다.
   - **사용한 기술**: React, Redux, Firebase
   - **GitHub 링크**: [React Note App](https://github.com/Seong-Jun1525/react-note-app)
 
 - **쇼핑몰 애플리케이션**:
-  - **프로젝트 설명**: 상품을 검색하고 장바구니에 담을 수 있는 쇼핑몰 앱.
+  - **프로젝트 설명**: 상품을 검색하고 장바구니에 담을 수 있는 쇼핑몰 웹 프로젝트입니다.
   - **사용한 기술**: React, Styled-Components, Redux
   - **GitHub 링크**: [React Shop App](https://github.com/Seong-Jun1525/react-shop-app)
 
 - **포켓몬 도감 애플리케이션**:
-  - **프로젝트 설명**: 포켓몬 도감을 검색할 수 있는 React 애플리케이션.
+  - **프로젝트 설명**: 포켓몬 도감을 검색할 수 있는 React 웹 프로젝트 입니다.
   - **사용한 기술**: React, Axios, Redux
   - **GitHub 링크**: [React Pokemon App](https://github.com/Seong-Jun1525/react-pokemon)
 
 ## 📈 목표
-프론트엔드와 백엔드 기술을 모두 활용하여 사용자 경험을 극대화할 수 있는 웹 애플리케이션을 만들고,  
-다양한 프로젝트를 통해 실무 경험을 쌓는 것을 목표로 하고 있습니다.
+프론트엔드와 백엔드 기술을 모두 활용하여 실용적인 3D 인터랙티브 웹을 개발하고, 
+개인 프로젝트로 저의 역량을 강화하고 다양한 팀 프로젝트를 통해 팀워크와 실무 경험을 쌓는 것을 목표로 하고 있습니다.
 
 ## 🌱 끊임없이 성장하는 개발자
-저는 항상 새로운 것을 배우고, 이를 프로젝트에 적용하면서 발전하고 있습니다.  
-언제나 도전하며 성장해 나가는 제 여정을 함께 지켜봐 주세요!
-
+꾸준히 개인역량을 강화하기 위해 개인 프로젝트를 통해 공부하고 있습니다.
 ---
 
 <div align="center">
