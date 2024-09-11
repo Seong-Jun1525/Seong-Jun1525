@@ -1,0 +1,101 @@
+<!--
+**Seong-Jun1525/Seong-Jun1525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+# 👋 Welcome to SeongJun's GitHub!
+
+안녕하세요!  
+저는 **유한대학교 컴퓨터소프트웨어공학과**에서 **컴퓨터소프트웨어 전공**을 하고 있는 SeongJun입니다.  
+프론트엔드와 백엔드 모두에 관심을 가지고 있으며, 끊임없이 새로운 기술을 배우고 성장하는 것을 좋아합니다.  
+이곳에서는 제가 진행하는 다양한 프로젝트와 학습 내용들을 확인하실 수 있습니다.  
+
+## 🔧 기술 스택
+
+### Frontend
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R3F-008080?style=flat&logoColor=white"/>
+</div>
+
+### Backend
+<div>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+</div>
+
+## 📘 학습 중인 기술
+- **TypeScript**: 정적 타입을 도입하여 코드의 안정성을 높이기 위해 학습 중입니다.
+- **Redux & Recoil**: 상태 관리를 더욱 효율적으로 다루기 위해 깊이 있는 학습을 진행하고 있습니다.
+- **Three.js & R3F**: 3D 그래픽과 애니메이션을 웹에 적용하기 위해 집중적으로 공부하고 있습니다.
+- **React**: 더욱 효율적인 컴포넌트 설계와 최적화를 위해 학습을 이어가고 있습니다.
+
+## 🖥️ 작업 환경
+- Visual Studio Code
+- Eclipse
+
+> 위 두 가지 IDE(통합 개발 환경)를 주로 사용하여 작업을 진행하고 있습니다.
+
+## 📂 프로젝트
+
+### 📱 안드로이드 앱 개발
+- **프로젝트 설명**: 안드로이드 기반 QR현장결제애플리케이션.
+- **사용한 기술**: Java, Android Studio
+- **GitHub 링크**: [Android App Development](https://github.com/yuhan19plus/AndroidProjects)
+
+### 🌱 스프링부트 프로젝트
+- **프로젝트 설명**: 학교 과제로 진행한 Spring Boot 기반의 대학포털웹사이트 백엔드 프로젝트.
+- **사용한 기술**: Spring Boot, MySQL, JPA, Thymeleaf
+- **GitHub 링크**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)
+
+### ⚛️ 리액트 프로젝트 모음
+- **인터랙티브 웹 개발**:
+  - **프로젝트 설명**: 리액트와 Three.js를 활용한 인터랙티브 대학교 웹 개발 프로젝트.
+  - **사용한 기술**: React, Three.js, R3F, node.js, MySQL, JavaScript
+  - **GitHub 링크**: [Interactive Web](https://github.com/yuhan19-plus/yuhan-interactive-web)
+
+- **노트 애플리케이션**:
+  - **프로젝트 설명**: 노트를 관리할 수 있는 React 애플리케이션.
+  - **사용한 기술**: React, Redux, Firebase
+  - **GitHub 링크**: [React Note App](https://github.com/Seong-Jun1525/react-note-app)
+
+- **쇼핑몰 애플리케이션**:
+  - **프로젝트 설명**: 상품을 검색하고 장바구니에 담을 수 있는 쇼핑몰 앱.
+  - **사용한 기술**: React, Styled-Components, Redux
+  - **GitHub 링크**: [React Shop App](https://github.com/Seong-Jun1525/react-shop-app)
+
+- **포켓몬 도감 애플리케이션**:
+  - **프로젝트 설명**: 포켓몬 도감을 검색할 수 있는 React 애플리케이션.
+  - **사용한 기술**: React, Axios, Redux
+  - **GitHub 링크**: [React Pokemon App](https://github.com/Seong-Jun1525/react-pokemon)
+
+## 📈 목표
+프론트엔드와 백엔드 기술을 모두 활용하여 사용자 경험을 극대화할 수 있는 웹 애플리케이션을 만들고,  
+다양한 프로젝트를 통해 실무 경험을 쌓는 것을 목표로 하고 있습니다.
+
+## 🌱 끊임없이 성장하는 개발자
+저는 항상 새로운 것을 배우고, 이를 프로젝트에 적용하면서 발전하고 있습니다.  
+언제나 도전하며 성장해 나가는 제 여정을 함께 지켜봐 주세요!
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seong-Jun1525&show_icons=true&theme=radical" alt="SeongJun's GitHub stats" />
+</div>
