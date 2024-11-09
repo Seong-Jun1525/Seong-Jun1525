@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 - **쇼핑몰 애플리케이션**:
   - **프로젝트 설명**: 상품을 검색하고 장바구니에 담을 수 있는 쇼핑몰 웹 프로젝트입니다.
-  - **사용한 기술**: React, Styled-Components, Redux
+  - **사용한 기술**: React, Redux, SASS, SCSS, TypeScript
   - **GitHub 링크**: [React Shop App](https://github.com/Seong-Jun1525/react-shop-app)
 
 - **포켓몬 도감 애플리케이션**:
