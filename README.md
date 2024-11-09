@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ### ⚛️ 리액트 프로젝트 모음
 - **유한대학교 인터랙티브 웹 개발**:
   - **프로젝트 설명**: 리액트와 R3F를 활용한 인터랙티브 웹 개발 프로젝트입니다.
-  - **사용한 기술**: React, Three.js, R3F, node.js, MySQL, JavaScript
+  - **사용한 기술**: React, JavaScript, Three.js, R3F, Node.js, MySQL, Blender, Styled-components, Redux, Axios 등
   - **GitHub 링크**: [Interactive Web](https://github.com/yuhan19-plus/yuhan-interactive-web)
 
 - **노트 애플리케이션**:
