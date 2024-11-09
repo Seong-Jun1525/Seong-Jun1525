@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 - **노트 애플리케이션**:
   - **프로젝트 설명**: 노트를 관리할 수 있는 React 웹 프로젝트입니다.
-  - **사용한 기술**: React, Redux, Firebase
+  - **사용한 기술**: React, Redux, Firebase, TypeScript
   - **GitHub 링크**: [React Note App](https://github.com/Seong-Jun1525/react-note-app)
 
 - **쇼핑몰 애플리케이션**:
