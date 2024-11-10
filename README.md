@@ -67,6 +67,12 @@ Here are some ideas to get you started:
 - **사용한 기술**: Spring Boot, MySQL, JPA, Thymeleaf
 - **GitHub 링크**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)
 
+### Vue.js 프로젝트 모음
+- **영화검색 웹 사이트**
+  - **프로젝트 설명** : Vue.js를 사용해서 개발한 영화검색 웹 개발 프로젝트입니다.
+  - **사용한 기술** : Vue.js, JavasScript 등
+  - **Github 링크** : [Search Movie Web](https://github.com/Seong-Jun1525/vue-movie-app)
+ 
 ### ⚛️ 리액트 프로젝트 모음
 - **유한대학교 인터랙티브 웹 개발**:
   - **프로젝트 설명**: 리액트와 R3F를 활용한 인터랙티브 웹 개발 프로젝트입니다.
