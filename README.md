@@ -94,6 +94,15 @@ Here are some ideas to get you started:
   - **사용한 기술**: React, Axios, Redux
   - **GitHub 링크**: [React Pokemon App](https://github.com/Seong-Jun1525/react-pokemon)
 
+### 웹 퍼블리싱
+- **하나카드**
+  - **사용한 기술** : HTML5, CSS3, JavaScript
+  - **Github 링크** : [하나카드 웹](https://github.com/Seong-Jun1525/HanaCard)
+ 
+- **스타벅스**
+  - **사용한 기술** : HTML5, CSS3, JavaScript
+  - **Github 링크** : [스타벅스 웹](https://github.com/Seong-Jun1525/starbucks)
+ 
 ## 📈 목표
 프론트엔드와 백엔드 기술을 모두 활용하여 실용적인 웹을 개발하고, 
 개인 프로젝트로 저의 역량을 강화하고 다양한 팀 프로젝트를 통해 팀워크와 실무 경험을 쌓는 것을 목표로 하고 있습니다.
