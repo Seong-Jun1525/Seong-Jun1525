@@ -83,7 +83,7 @@
 - **날씨 웹**
   - **프로젝트 설명** : 날씨 API를 사용해서 지정한 도시의 날씨 정보를 확인하는 웹 개발 프로젝트 입니다.
   - **사용한 기술** : React, JavaScript, R3F 등
-  - **Github 링크** : (Weather Web)[https://github.com/Seong-Jun1525/weather]
+  - **Github 링크** : [Weather Web](https://github.com/Seong-Jun1525/weather)
 
 ### 웹 퍼블리싱
 - **하나카드**
