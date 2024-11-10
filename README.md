@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/user-attachments/assets/32590231-a3b0-4c71-ab52-29a13dd34787)<!--
 **Seong-Jun1525/Seong-Jun1525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -102,6 +102,10 @@ Here are some ideas to get you started:
 - **스타벅스**
   - **사용한 기술** : HTML5, CSS3, JavaScript
   - **Github 링크** : [스타벅스 웹](https://github.com/Seong-Jun1525/starbucks)
+
+- **오버워치**
+  - **사용한 기술** : HTML5, SCSS
+  - **Github 링크** : [오버워치 웹](https://github.com/Seong-Jun1525/overwatch)
  
 ## 📈 목표
 프론트엔드와 백엔드 기술을 모두 활용하여 실용적인 웹을 개발하고, 
