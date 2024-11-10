@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - **사용한 기술**: Spring Boot, MySQL, JPA, Thymeleaf
 - **GitHub 링크**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)
 
-### Vue.js 프로젝트 모음
+### 🍀 Vue.js 프로젝트 모음
 - **영화검색 웹 사이트**
   - **프로젝트 설명** : Vue.js를 사용해서 개발한 영화검색 웹 개발 프로젝트입니다.
   - **사용한 기술** : Vue.js, JavasScript 등
