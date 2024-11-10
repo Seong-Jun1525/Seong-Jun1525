@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/32590231-a3b0-4c71-ab52-29a13dd34787)<!--
 **Seong-Jun1525/Seong-Jun1525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
