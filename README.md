@@ -49,16 +49,17 @@
 - **GitHub 링크**: [Android App Development](https://github.com/yuhan19plus/AndroidProjects)
 
 ### 🌱 스프링부트 프로젝트
-- **프로젝트 설명**: Spring Boot 기반의 대학포털웹사이트 백엔드 중심 프로젝트입니다. 배팅을 통해 수강신청이 되도록 구현하였습니다.
-- **사용한 기술**: Spring Boot, MySQL, JPA, Thymeleaf
-- **GitHub 링크**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)
+- **배팅으로 수강신청을 할 수 있도록 구현한 대학포털 웹 사이트**
+  - **프로젝트 설명**: Spring Boot 기반의 대학포털웹사이트 백엔드 중심 프로젝트입니다. 배팅을 통해 수강신청이 되도록 구현하였습니다.
+  - **사용한 기술**: Spring Boot, MySQL, JPA, Thymeleaf
+  - **GitHub 링크**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)
 
 - **온라인 팀 프로젝트 일정관리 웹 사이트**
   - **프로젝트 설명** : 팀 프로젝트를 좀 더 효율적으로 관리할 수 있도록 도와주는 웹 프로젝트입니다.
   - **사용한 기술** : JavaScript, Java, Spring Boot, MySQL, Thymeleaf
   - **Github 링크** : [Team Schedule Management Project](https://github.com/Seong-Jun1525/Team-Schedule-Management-Project)
 
-### 🍀 Vue.js 프로젝트 모음
+### ⚡ Vue.js 프로젝트 모음
 - **영화검색 웹 사이트**
   - **프로젝트 설명** : Vue.js를 사용해서 개발한 영화검색 웹 개발 프로젝트입니다.
   - **사용한 기술** : Vue.js, JavasScript 등
@@ -90,7 +91,7 @@
   - **사용한 기술** : React, JavaScript, R3F 등
   - **Github 링크** : [Weather Web](https://github.com/Seong-Jun1525/weather)
 
-### 웹 퍼블리싱
+### 🖌️ 웹 퍼블리싱
 - **하나카드**
   - **사용한 기술** : HTML5, CSS3, JavaScript
   - **Github 링크** : [하나카드 웹](https://github.com/Seong-Jun1525/HanaCard)
