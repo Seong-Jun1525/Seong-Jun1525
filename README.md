@@ -86,6 +86,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
 </div>
 
+## 백준티어
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjsj123455)](https://solved.ac/sjsj123455/)
+
 ## 📘 학습 중인 기술
 - **Java** : 백준에서 알고리즘 학습하고 있습니다. [성준이 백준 프로필](https://www.acmicpc.net/user/sjsj123455)
 - **JavaScript** : 제 대표 기술스택으로서 더욱 성장하기 위해 학습하고 있습니다.
@@ -109,5 +112,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Seong-Jun1525&show_icons=true&theme=radical" alt="SeongJun's GitHub stats" />
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjsj123455)](https://solved.ac/sjsj123455/)
 </div>
