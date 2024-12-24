@@ -109,4 +109,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Seong-Jun1525&show_icons=true&theme=radical" alt="SeongJun's GitHub stats" />
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjsj123455)](https://solved.ac/sjsj123455/)
 </div>
