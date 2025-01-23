@@ -2,28 +2,6 @@
 
 ## 📂 프로젝트
 
-### 📱 안드로이드 앱 개발
-- **프로젝트 설명**: 안드로이드 기반 QR현장결제애플리케이션 프로젝트입니다.
-- **사용한 기술**: Java, Android Studio, JavaScript
-- **GitHub 링크**: [Android App Development](https://github.com/yuhan19plus/AndroidProjects)
-
-### 🌱 스프링부트 프로젝트
-- **배팅으로 수강신청을 할 수 있도록 구현한 대학포털 웹 사이트**
-  - **프로젝트 설명**: Spring Boot 기반의 대학포털웹사이트 백엔드 중심 프로젝트입니다. 배팅을 통해 수강신청이 되도록 구현하였습니다.
-  - **사용한 기술**: Spring Boot, MySQL, JPA, Thymeleaf
-  - **GitHub 링크**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)
-
-- **온라인 팀 프로젝트 일정관리 웹 사이트**
-  - **프로젝트 설명** : 팀 프로젝트를 좀 더 효율적으로 관리할 수 있도록 도와주는 웹 프로젝트입니다.
-  - **사용한 기술** : JavaScript, Java, Spring Boot, MySQL, Thymeleaf
-  - **Github 링크** : [Team Schedule Management Project](https://github.com/Seong-Jun1525/Team-Schedule-Management-Project)
-
-### ⚡ Vue.js 프로젝트 모음
-- **영화검색 웹 사이트**
-  - **프로젝트 설명** : Vue.js를 사용해서 개발한 영화검색 웹 개발 프로젝트입니다.
-  - **사용한 기술** : Vue.js, JavasScript 등
-  - **Github 링크** : [Search Movie Web](https://github.com/Seong-Jun1525/vue-movie-app)
- 
 ### ⚛️ 리액트 프로젝트 모음
 - **유한대학교 인터랙티브 웹 개발**:
   - **프로젝트 설명**: 리액트와 R3F를 활용한 인터랙티브 웹 개발 프로젝트입니다.
@@ -49,6 +27,28 @@
   - **프로젝트 설명** : 날씨 API를 사용해서 지정한 도시의 날씨 정보를 확인하는 웹 개발 프로젝트 입니다.
   - **사용한 기술** : React, JavaScript, R3F 등
   - **Github 링크** : [Weather Web](https://github.com/Seong-Jun1525/weather)
+
+### 🌱 스프링부트 프로젝트
+- **배팅으로 수강신청을 할 수 있도록 구현한 대학포털 웹 사이트**
+  - **프로젝트 설명**: Spring Boot 기반의 대학포털웹사이트 백엔드 중심 프로젝트입니다. 배팅을 통해 수강신청이 되도록 구현하였습니다.
+  - **사용한 기술**: Spring Boot, MySQL, JPA, Thymeleaf
+  - **GitHub 링크**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)
+
+- **온라인 팀 프로젝트 일정관리 웹 사이트**
+  - **프로젝트 설명** : 팀 프로젝트를 좀 더 효율적으로 관리할 수 있도록 도와주는 웹 프로젝트입니다.
+  - **사용한 기술** : JavaScript, Java, Spring Boot, MySQL, Thymeleaf
+  - **Github 링크** : [Team Schedule Management Project](https://github.com/Seong-Jun1525/Team-Schedule-Management-Project)
+
+### ⚡ Vue.js 프로젝트 모음
+- **영화검색 웹 사이트**
+  - **프로젝트 설명** : Vue.js를 사용해서 개발한 영화검색 웹 개발 프로젝트입니다.
+  - **사용한 기술** : Vue.js, JavasScript 등
+  - **Github 링크** : [Search Movie Web](https://github.com/Seong-Jun1525/vue-movie-app)
+
+### 📱 안드로이드 앱 개발
+- **프로젝트 설명**: 안드로이드 기반 QR현장결제애플리케이션 프로젝트입니다.
+- **사용한 기술**: Java, Android Studio, JavaScript
+- **GitHub 링크**: [Android App Development](https://github.com/yuhan19plus/AndroidProjects)
 
 ### 🖌️ 웹 퍼블리싱
 - **하나카드**
@@ -85,8 +85,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjsj123455)](https://solved.ac/sjsj123455/)
 
 ## 📘 학습 중인 기술
-- **Java** : 백준에서 알고리즘 학습하고 있습니다. [성준이 백준 프로필](https://www.acmicpc.net/user/sjsj123455)
-- **JavaScript** : 제 대표 기술스택으로서 더욱 성장하기 위해 학습하고 있습니다.
+- **Java** : **백준에서 알고리즘 학습하고 있습니다. [성준이 백준 프로필](https://www.acmicpc.net/user/sjsj123455)**
+- **JavaScript** : **제 대표 기술스택으로서 더욱 성장하기 위해 학습하고 있습니다.**
 - **TypeScript**: 책과 인터넷 강의를 통해 학습할 예정입니다.
 - **Redux**: 상태 관리를 더욱 효율적으로 다루기 위해 깊이 있는 학습을 진행하고 있습니다.
 - **Three.js & R3F**: 더 나은 3D 인터랙티브 웹을 개발하기 위해서 학습중입니다.
@@ -98,8 +98,7 @@
 - STS
 
 ## 📈 목표
-프론트엔드와 백엔드 기술을 모두 활용하여 실용적인 웹을 개발하고, 
-개인 프로젝트로 저의 역량을 강화하고 다양한 팀 프로젝트를 통해 팀워크와 실무 경험을 쌓는 것을 목표로 하고 있습니다.
+프론트엔드와 백엔드 기술을 모두 활용하여 실용적인 웹을 개발하고, 꾸준한 알고리즘 공부와 개인 프로젝트로 저의 역량을 강화하고 다양한 팀 프로젝트를 통해 팀워크와 실무 경험을 쌓는 것을 목표로 하고 있습니다.
 
 ## 🌱 끊임없이 성장하는 개발자
 꾸준히 개인역량을 강화하기 위해 개인 프로젝트를 통해 공부하고 있습니다.
