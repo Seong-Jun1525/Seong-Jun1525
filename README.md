@@ -3,22 +3,22 @@
 ## 📂 프로젝트
 
 ### ⚛️ 리액트 프로젝트 모음
-- **유한대학교 인터랙티브 웹 개발**:
+- **유한대학교 인터랙티브 웹 개발**
   - **프로젝트 설명**: 리액트와 R3F를 활용한 인터랙티브 웹 개발 프로젝트입니다.
   - **사용한 기술**: React, JavaScript, Three.js, R3F, Node.js, MySQL, Blender, Styled-components, Redux, Axios 등
   - **GitHub 링크**: [Interactive Web](https://github.com/yuhan19-plus/yuhan-interactive-web)
 
-- **노트 애플리케이션**:
+- **노트 애플리케이션**
   - **프로젝트 설명**: 노트를 관리할 수 있는 React 웹 프로젝트입니다.
   - **사용한 기술**: React, Redux, Firebase, TypeScript
   - **GitHub 링크**: [React Note App](https://github.com/Seong-Jun1525/react-note-app)
 
-- **쇼핑몰 애플리케이션**:
+- **쇼핑몰 애플리케이션**
   - **프로젝트 설명**: 상품을 검색하고 장바구니에 담을 수 있는 쇼핑몰 웹 프로젝트입니다.
   - **사용한 기술**: React, Redux, SASS, SCSS, TypeScript
   - **GitHub 링크**: [React Shop App](https://github.com/Seong-Jun1525/react-shop-app)
 
-- **포켓몬 도감 애플리케이션**:
+- **포켓몬 도감 애플리케이션**
   - **프로젝트 설명**: 포켓몬 도감을 검색할 수 있는 React 웹 프로젝트 입니다.
   - **사용한 기술**: React, Axios, Redux
   - **GitHub 링크**: [React Pokemon App](https://github.com/Seong-Jun1525/react-pokemon)
