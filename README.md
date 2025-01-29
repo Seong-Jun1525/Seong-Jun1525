@@ -3,7 +3,7 @@
 **3D 인터랙티브 웹 개발**, **대학 포털 웹 개발**, **QR 결제 앱 개발** 등 다양한 프로젝트 경험을 통해 역량을 쌓고 있습니다.
 
 ---
-
+<!--
 ## 📂 프로젝트
 ### ⚛️ **리액트 프로젝트 모음**
 #### 🏆 **유한대학교 인터랙티브 웹 개발** *(4인 팀 프로젝트)*  
@@ -108,25 +108,69 @@
 **GitHub**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)  
 
 ---
-
+-->
 ### 🏆 **백준 티어**
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjsj123455)](https://solved.ac/sjsj123455/)  
+
+> Java11을 사용하여 꾸준한 알고리즘 공부를 하고 있습니다.
+
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjsj123455)](https://solved.ac/sjsj123455/)  
+  
+</div>
 
 ---
 
-### 🔧 **기술 스택**
-#### Frontend
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/>
+<h3 align="center">✨ 💻 Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br><br>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/><br><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-#### Backend
-<div>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<h3 align="center">✨ 📚 공부중... ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+</div>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">&nbsp
+  <img src="https://img.shields.io/badge/eclipse-F26207.svg?style=for-the-badge&logo=eclipseide&logoColor=2C2255" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">📨 Contact 📨</h3>
+<div align="center">
+  <a href="https://seong-jun.tistory.com/">
+    <img src="https://img.shields.io/badge/seongjun.tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp&nbsp
+  </a>
+  <a href="mailto:hi5k1234556@gmail.com">
+    <img
+      src="https://img.shields.io/badge/hi5k1234556@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
@@ -139,5 +183,10 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seong-Jun1525&show_icons=true&theme=radical" alt="SeongJun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seong-Jun1525&show_icons=true&theme=gruvbox" alt="SeongJun's GitHub stats" />
+</div>
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seong-Jun1525&layout=compact)
+  
 </div>
