@@ -123,57 +123,87 @@
 
 ---
 
-<h3 align="center">✨ 💻 Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br><br>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/><br><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
+<h2 align="center">✨ 💻 Tech Stack ✨</h2>
 
-<h3 align="center">✨ 📚 공부중... ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-</div>
+### 🎨 Frontend
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></td>
+  </tr>
+</table>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+### ⚙️ Backend
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></td>
+  </tr>
+</table>
 
-<br>
+### 🗄️ Database
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
+---
 
-<br>
+### 📚 Studying... 🚀
+<p align="center">
+  <img src="https://github.com/seong-jun/seong-jun/assets/your-image-path.gif" width="50px"/>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">&nbsp
-  <img src="https://img.shields.io/badge/eclipse-F26207.svg?style=for-the-badge&logo=eclipseide&logoColor=2C2255" />&nbsp
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Tools
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Figma-9C57F6.svg?style=for-the-badge&logo=figma&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Eclipse-F26207.svg?style=for-the-badge&logo=eclipseide&logoColor=2C2255" /></td>
+  </tr>
+</table>
+
+
 
 <br>
 
 <h3 align="center">📨 Contact 📨</h3>
-<div align="center">
-  <a href="https://seong-jun.tistory.com/">
-    <img src="https://img.shields.io/badge/seongjun.tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp&nbsp
-  </a>
-  <a href="mailto:hi5k1234556@gmail.com">
-    <img
-      src="https://img.shields.io/badge/hi5k1234556@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://seong-jun.tistory.com/">
+        <img src="https://img.shields.io/badge/Blog-seongjun.tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:hi5k1234556@gmail.com">
+        <img src="https://img.shields.io/badge/Email-hi5k1234556@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
