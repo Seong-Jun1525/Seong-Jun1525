@@ -115,7 +115,7 @@
 > **Java11**을 사용하여 꾸준한 알고리즘 공부를 하고 있습니다.  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=E81824"/>
   <br><br>
   <a href="https://solved.ac/sjsj123455/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjsj123455" alt="Solved.ac Profile"/>
@@ -142,7 +142,7 @@
 ### ⚙️ Backend
 <table align="center">
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=E81824"/></td>
     <td align="center"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></td>
     <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></td>
   </tr>
