@@ -111,15 +111,16 @@
 
 ---
 -->
-### 🏆 **백준 티어**
+### 🏆 **백준 티어 (Algorithm)**
+> **Java11**을 사용하여 꾸준한 알고리즘 공부를 하고 있습니다.  
 
-> Java11을 사용하여 꾸준한 알고리즘 공부를 하고 있습니다.
-
-<div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjsj123455)](https://solved.ac/sjsj123455/)  
-  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <br><br>
+  <a href="https://solved.ac/sjsj123455/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjsj123455" alt="Solved.ac Profile"/>
+  </a>
+</p>
 
 ---
 
@@ -141,6 +142,7 @@
 ### ⚙️ Backend
 <table align="center">
   <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
     <td align="center"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></td>
     <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></td>
   </tr>
@@ -155,10 +157,8 @@
 
 ---
 
-### 📚 Studying... 🚀
-<p align="center">
-  <img src="https://github.com/seong-jun/seong-jun/assets/your-image-path.gif" width="50px"/>
-</p>
+### 📚 **Studying... 🚀**
+> **현재 공부 중인 기술과 목표!** 📖  
 
 <table align="center">
   <tr>
@@ -168,9 +168,14 @@
   </tr>
 </table>
 
+📌 **진행 상황**  
+- **Three.js**: WebGL 렌더링 실습 **(🔥 10%)**  
+- **TypeScript**: 기본 문법 **(🚀 10%)**  
+- **Redux**: 상태 관리 심화 학습 **(📖 30%)**  
+
 ---
 
-### 🛠 Tools
+### 🛠 **Tools**
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></td>
@@ -179,16 +184,14 @@
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Figma-9C57F6.svg?style=for-the-badge&logo=figma&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Eclipse-F26207.svg?style=for-the-badge&logo=eclipseide&logoColor=2C2255" /></td>
   </tr>
 </table>
 
+---
 
-
-<br>
-
-<h3 align="center">📨 Contact 📨</h3>
+### 📨 **Contact**
 <table align="center">
   <tr>
     <td>
@@ -204,21 +207,17 @@
   </tr>
 </table>
 
-
 ---
 
-### 📈 **목표**
-- **단기 목표**: 다양한 팀 프로젝트를 통해 협업 능력 강화  
-- **중기 목표**: 풀스택 역량을 갖춘 엔지니어로 성장  
-- **장기 목표**: 대규모 서비스를 주도적으로 설계 및 구현하는 기술 리더  
+### 🎯 **목표 (Goals)**
+- 🔥 **단기 목표**: 다양한 팀 프로젝트를 통해 협업 능력 강화
+- 🚀 **중기 목표**: 풀스택 역량을 갖춘 육각형 개발자로 성장
+- 🎯 **장기 목표**: 대규모 서비스를 주도적으로 설계 및 구현하는 기술 리더
 
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Seong-Jun1525&show_icons=true&theme=gruvbox" alt="SeongJun's GitHub stats" />
 </div>
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seong-Jun1525&layout=compact)
-  
-</div>
+
+---
