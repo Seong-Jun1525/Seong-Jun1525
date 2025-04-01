@@ -136,6 +136,7 @@
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
     <td align="center"><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></td>
   </tr>
 </table>
 
@@ -152,6 +153,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></td>
   </tr>
 </table>
 
