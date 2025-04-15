@@ -3,9 +3,7 @@
 # 👋 안녕하세요! 끊임없이 성장하는 개발자, 임성준입니다. 
 저는 프론트엔드와 백엔드 기술을 활용하여 **창의적이고 실용적인 웹/앱 개발**을 목표로 하고 있으며,  
 **3D 인터랙티브 웹 개발**, **대학 포털 웹 개발**, **QR 결제 앱 개발** 등 다양한 프로젝트 경험을 통해 역량을 쌓고 있습니다.
-
----
-
+-->
 ## 📂 프로젝트
 ### ⚛️ **리액트 프로젝트 모음**
 #### 🏆 **유한대학교 인터랙티브 웹 개발** *(4인 팀 프로젝트)*  
@@ -35,7 +33,7 @@
 **GitHub**: [Interactive Web](https://github.com/yuhan19-plus/yuhan-interactive-web)  
 
 ---
-
+<!--
 #### **노트 애플리케이션** *(개인 프로젝트)*  
 > 노트 관리 기능이 포함된 React 기반 웹 앱  
 **사용 기술**: React, Redux, Firebase, TypeScript  
@@ -55,6 +53,30 @@
 > 날씨 API를 활용한 도시별 날씨 정보 조회 웹 앱  
 **사용 기술**: React, JavaScript, R3F  
 **GitHub**: [Weather Web](https://github.com/Seong-Jun1525/weather)  
+-->
+## 🌱 **스프링부트 프로젝트**
+#### **대학포털 웹 사이트 (수강신청 배팅 시스템)**  
+> Spring Boot로 구현한 **대학 포털 사이트**입니다.  
+> 학생들이 배팅을 통해 수강신청을 할 수 있도록 설계되었습니다.  
+
+**📌 주요 기능**  
+- **회원 관리**: 학생/교수 회원가입, 로그인/로그아웃, 학번 생성  
+- **강의 관리**: 강의 등록 및 개설 강의 목록 조회  
+- **수강 신청**: 전공/교양/추가 수강 신청, 수강 신청 목록 조회/검색/취소/마감  
+- **강의 평가**: 강의 평가 등록 및 조회, 평가 목록 검색  
+- **성적 관리**: 성적 등록, 수정 및 조회  
+- **게시판 관리**: 글 작성, 수정, 삭제 및 조회  
+
+**📌 담당 업무**  
+- **프로젝트 리더로서**  
+  - 프로젝트 기획 및 총괄  
+  - 데이터베이스 설계 및 구조 설계 주도  
+  - 개발 일정 관리 및 발표  
+- **풀스택 개발자로서**  
+  - 회원 관리, 강의 관리, 수강 신청, 강의 평가 및 성적 관리 기능 개발  
+
+**사용 기술**: Spring Boot, MySQL, JPA, Thymeleaf  
+**GitHub**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)  
 
 ---
 
@@ -85,32 +107,6 @@
 
 ---
 
-## 🌱 **스프링부트 프로젝트**
-#### **대학포털 웹 사이트 (수강신청 배팅 시스템)**  
-> Spring Boot로 구현한 **대학 포털 사이트**입니다.  
-> 학생들이 배팅을 통해 수강신청을 할 수 있도록 설계되었습니다.  
-
-**📌 주요 기능**  
-- **회원 관리**: 학생/교수 회원가입, 로그인/로그아웃, 학번 생성  
-- **강의 관리**: 강의 등록 및 개설 강의 목록 조회  
-- **수강 신청**: 전공/교양/추가 수강 신청, 수강 신청 목록 조회/검색/취소/마감  
-- **강의 평가**: 강의 평가 등록 및 조회, 평가 목록 검색  
-- **성적 관리**: 성적 등록, 수정 및 조회  
-- **게시판 관리**: 글 작성, 수정, 삭제 및 조회  
-
-**📌 담당 업무**  
-- **프로젝트 리더로서**  
-  - 프로젝트 기획 및 총괄  
-  - 데이터베이스 설계 및 구조 설계 주도  
-  - 개발 일정 관리 및 발표  
-- **풀스택 개발자로서**  
-  - 회원 관리, 강의 관리, 수강 신청, 강의 평가 및 성적 관리 기능 개발  
-
-**사용 기술**: Spring Boot, MySQL, JPA, Thymeleaf  
-**GitHub**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)  
-
----
--->
 ### 🏆 **백준 티어 (Algorithm)**
 > **Java11**을 사용하여 꾸준한 알고리즘 공부를 하고 있습니다.  
 
@@ -138,14 +134,23 @@
     <td align="center"><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></td>
     <td align="center"><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logoColor=white"/></td>
+  </tr>
 </table>
 
 ### ⚙️ Backend
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=E81824"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/MyBatis-B31B1B?style=for-the-badge&logoColor=white"/></td>
   </tr>
 </table>
 
