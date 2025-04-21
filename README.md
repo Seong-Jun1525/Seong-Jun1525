@@ -114,7 +114,7 @@
 **사용 기술**: Java, JSP, jQuery, JSTL, JavaScript, CSS3, MyBatis, Oracle 등 
 
 **GitHub**: [KH Semi Project](https://github.com/I-Union-I/trip-log)  
-
+<!--
 ---
 
 ## 📱 **안드로이드 앱 개발**
@@ -141,7 +141,7 @@
 
 **사용 기술**: Java, Android Studio, Firebase, JavaScript  
 **GitHub**: [Android App Development](https://github.com/yuhan19plus/AndroidProjects)  
-
+-->
 ---
 
 ### 🏆 **백준 티어 (Algorithm)**
