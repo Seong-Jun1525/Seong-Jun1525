@@ -119,7 +119,8 @@
   - 상품 별점 등록 및 평점 계산 기능 구현
   - 상품 찜 기능 구현
 
-**사용 기술**: JavaScript, Java, JSP, jQuery, JSTL, MyBatis, Oracle 등
+**사용 기술**: JavaScript, Java, JSP, jQuery, JSTL, MyBatis, Oracle 등 
+
 **GitHub**: [KH Semi Project](https://github.com/I-Union-I/trip-log)  
 
 ---
