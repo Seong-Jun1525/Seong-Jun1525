@@ -121,6 +121,7 @@
 
 **사용 기술**: JavaScript, Java, JSP, jQuery, JSTL, MyBatis, Oracle 등
 **GitHub**: [KH Semi Project](https://github.com/I-Union-I/trip-log)  
+
 ---
 
 ## 📱 **안드로이드 앱 개발**
