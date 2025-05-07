@@ -76,7 +76,7 @@
 - **풀스택 개발자로서**  
   - 회원 관리, 강의 관리, 수강 신청, 강의 평가 및 성적 관리 기능 개발  
 
-**사용 기술**: Spring Boot, MySQL, JPA, Thymeleaf  
+**📌 사용 기술**: Spring Boot, MySQL, JPA, Thymeleaf  
 **GitHub**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)  
 
 ---
@@ -112,7 +112,7 @@
   - 상품 별점 등록 및 평점 계산 기능 구현
   - 상품 찜 기능 구현
 
-**사용 기술**: Java, JSP, jQuery, JSTL, JavaScript, CSS3, MyBatis, Oracle 등 
+**📌 사용 기술**: Java, JSP, jQuery, JSTL, JavaScript, CSS3, MyBatis, Oracle 등 
 
 **GitHub**: [KH Semi Project](https://github.com/I-Union-I/trip-log)  
 <!--
