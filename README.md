@@ -30,8 +30,9 @@
   - 상담 신청 및 키오스크 이벤트 시스템 구현  
   - 주요 3D 모델링(평화관, 자유관 등 주요 건물) 제작 및 UI 설계  
 
-**📌 사용 기술**: React, JavaScript, Three.js, Node.js, Express.js, MySQL, Blender 등 
+**📌 사용 기술**: React, JavaScript, Three.js, Node.js, Express.js, MySQL, Blender 등
 **GitHub**: [Interactive Web](https://github.com/yuhan19-plus/yuhan-interactive-web)  
+
 ---
 <!--
 #### **노트 애플리케이션** *(개인 프로젝트)*  
