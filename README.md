@@ -80,7 +80,7 @@
 **GitHub**: [Spring Boot School Project](https://github.com/Seong-Jun1525/SpringBootSchoolProject)  
 
 ---
-## 🔥 **세미 프로젝트**
+## 🔥 **JSP/Servlet 프로젝트**
 #### **여행 커뮤니티 웹 개발**
 > JSP, MyBatis를 활용해 **MVC 패턴에 대해 학습**하면서 진행한 팀 프로젝트입니다.  
 > **CRUD 기능을 연습하는 것을 목표**로 한 기능 개발 프로젝트입니다.  
