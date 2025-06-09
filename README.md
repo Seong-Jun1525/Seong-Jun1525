@@ -143,9 +143,9 @@
 **사용 기술**: Java, Android Studio, Firebase, JavaScript  
 **GitHub**: [Android App Development](https://github.com/yuhan19plus/AndroidProjects)  
 -->
+
 ---
  
--->
 ### 🏆 **백준 티어 (Algorithm)**
 > **Java11**을 사용하여 꾸준한 알고리즘 공부를 하고 있습니다.  
 
