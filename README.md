@@ -143,6 +143,8 @@
 **사용 기술**: Java, Android Studio, Firebase, JavaScript  
 **GitHub**: [Android App Development](https://github.com/yuhan19plus/AndroidProjects)  
 -->
+### Portfolio
+[Seong Jun Portfolio](https://seong-jun-portfolio.netlify.app/)
 
 ---
  
