@@ -221,8 +221,6 @@
   </tr>
 </table>
 
----
-
 ### 🛠 **Tools**
 
 <table align="center">
@@ -242,8 +240,6 @@
   </tr>
 </table>
 
----
-
 ### 📨 **Contact**
 
 <table align="center">
@@ -260,8 +256,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### 🎯 **Goals**
 
@@ -281,5 +275,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Seong-Jun1525&show_icons=true&theme=gruvbox" alt="SeongJun's GitHub stats" />
 </div>
-
----
