@@ -143,12 +143,13 @@
 **사용 기술**: Java, Android Studio, Firebase, JavaScript
 **GitHub**: [Android App Development](https://github.com/yuhan19plus/AndroidProjects)
 -->
-
+<!--
 ### Portfolio
 
 [Seong Jun Portfolio](https://seong-jun-portfolio.netlify.app/)
 
 ---
+-->
 
 ### 🏆 **백준 티어 (Algorithm)**
 
@@ -257,6 +258,7 @@
   </tr>
 </table>
 
+<!--
 ### 🎯 **Goals**
 
 - 🔥 **단기 목표**
@@ -271,6 +273,7 @@
   - 대규모 서비스를 주도적으로 설계 및 구현하는 기술 리더
 
 ---
+-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Seong-Jun1525&show_icons=true&theme=gruvbox" alt="SeongJun's GitHub stats" />
