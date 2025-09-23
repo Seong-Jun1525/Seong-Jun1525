@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SeongJun1525&label=Profile%20views&color=0e75b6&style=flat" alt="SeongJun1525" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Seong-Jun1525" alt="SeongJun1525" /></a> </p>
+
 <!--
 
 # 👋 안녕하세요! 끊임없이 성장하는 개발자, 임성준입니다.
